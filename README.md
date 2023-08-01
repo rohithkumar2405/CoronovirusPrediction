@@ -16,6 +16,5 @@ How to use this model/ execute this model :
 
 This is final year project done by ,
 
-ROHITH KUMAR K 
-RANJITH B
+ROHITH KUMAR K and RANJITH B , 
 RAJALAKSHMI INSTITUTE OF TECHNOLOGY, CHENNAI . 
