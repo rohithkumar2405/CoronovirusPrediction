@@ -10,7 +10,7 @@ How to use this model/ execute this model :
 2. Need to preprocess the dataset and remove the missing values .
 3. Need to run the covid prediction model which is a jupyter notebook file . That can train the model .
 4. AFter training the model , we should run the python flask web application .
-5. We can give the values as 0 or 1 through the input page and the model will predict if we are affected by corono virus or not .
+5. We can give the input through choosing yes/no through the input page and the model will predict if we are affected by corono virus or not .
 6. Then the result page will show the output of the prediction model .
 
 
